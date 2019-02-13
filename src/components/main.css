@@ -1,0 +1,15 @@
+.main {
+    background: var(--light-shade);
+    overflow-x: hidden;
+}
+
+.mainContainer {
+    background: var(--light-shade);
+    /*padding: 1rem;*/
+    padding: 5rem 2rem;
+    margin: 4rem 4rem 4rem 6cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

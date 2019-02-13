@@ -1,0 +1,28 @@
+# IntelliJ stuff
+.idea
+
+# Mac stuff
+.DS_Store
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+flow-typed/
+
+flow-stubs/
+
+node_modules/
