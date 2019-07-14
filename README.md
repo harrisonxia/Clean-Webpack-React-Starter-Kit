@@ -1,10 +1,11 @@
 # Clean-Webpack-React-Redux-Starter-Kit
 
-### Hi strangers. snoǝƃɹoƃoɯǝp ɹn ᴉɥ 
+### Hi strangers.
 
 > What is this?
 
 As cool and convenient as [Create-React-App](https://facebook.github.io/create-react-app/) is, it makes it pretty difficult for developers to incorporate some packages into their own project. Plus, it's always a great idea to know what's going on behind the scene. 
+This is like my own Create-React-Redux-App. I use it as the base for some of my projects.
 
 I updated all dependencies to their latest version (as of July 14, 2019). 
 
