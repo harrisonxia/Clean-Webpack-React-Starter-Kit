@@ -48,7 +48,13 @@
     "webpack-dev-server": "^3.7.1"
   },
   "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "google-map-react": "^1.1.5",
+    "lodash": "^4.17.15",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.1.1",
+    "styled-components": "^4.4.0"
   }
 }
